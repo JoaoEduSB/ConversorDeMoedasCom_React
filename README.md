@@ -1,8 +1,16 @@
-# React + Vite
+# Conversor de moedas com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/JoaoEduSB/ConversorDeMoedasCom_React/assets/146045770/f8eb7443-0950-42e0-bf9d-73749a9e4d3c)
 
-Currently, two official plugins are available:
+- Projeto construído durante o curso PROPROFISSÃO.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias
+
+- HTML
+- CSS
+- Javascript
+- React
+- Git e Github
+
+## Contato
+[(LinkedIn)](https://www.linkedin.com/in/joaoedusb/)
